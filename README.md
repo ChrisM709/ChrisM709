@@ -46,8 +46,9 @@
 
 🚀 **Currently Working On:**  
 - Web development projects using **HTML**, **CSS**, and **JavaScript**  
-- Game development, including a **text-based adventure game** and **arcade-style projects**  
-- A **portable console with a built-in emulator launcher**  
+- Game development, including a **text-based adventure game** and **2D arcade-style projects** with **Godot**
+- A **sports analytics prediction model** [FUTURE]
+- A **portable console with a built-in emulator launcher** [FUTURE]  
 
 📚 **Learning Focus:**  
 - **JavaScript**, **Python**, and front-end development  
